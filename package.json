@@ -1,0 +1,26 @@
+{
+  "name": "mb-interactive-map",
+  "version": "1.0.0",
+  "description": "this is going to be an epic interactive map. believe it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milcab/mb-interactive-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milcab/mb-interactive-map/issues"
+  },
+  "homepage": "https://github.com/milcab/mb-interactive-map#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "live-server": "^1.2.1"
+  }
+}
